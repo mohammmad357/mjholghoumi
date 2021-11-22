@@ -9,7 +9,8 @@
 .babe2{
     width: 100px;
     height: 100px;
+    margin: 10px;
     background: blue;
     border-radius: 25%;
-    margin: 10px;
+    
 }
