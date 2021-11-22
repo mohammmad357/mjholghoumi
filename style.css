@@ -7,6 +7,8 @@
     border-radius: 50%;
     background: greenyellow;
     color: white;
+    text-align: center;
+    font-size: 18px;
     
 }
 
@@ -19,6 +21,8 @@
     border-radius: 25%;
     background: blue;
     color: white;
+    text-align: center;
+    font-size: 18px;
     
     
 }
