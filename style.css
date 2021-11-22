@@ -1,16 +1,22 @@
 .babe1{
     width: 100px;
     height: 100px;
+    padding: 20px;
     margin: 10px;
-    background: greenyellow;
     border-radius: 50%;
+    background: greenyellow;
+    color: white;
+    
 }
 
 .babe2{
     width: 100px;
     height: 100px;
+    padding: 20px;
     margin: 10px;
-    background: blue;
     border-radius: 25%;
+    background: blue;
+    color: white;
+    
     
 }
