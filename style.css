@@ -2,10 +2,16 @@
     opacity: 0.6;
 }
 
-.babe1{
+div.babe1{
     border: 5px solid black;
     border-radius: 50%;
     background: greenyellow;
+}
+
+article.babe1{
+    border: 5px solid black;
+    border-radius: 30%;
+    background: rgb(178, 187, 165);
 }
 
 .babe2{
