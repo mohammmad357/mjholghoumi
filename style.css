@@ -1,6 +1,7 @@
 .babe1{
     width: 100px;
     height: 100px;
+    margin: 10px;
     background: greenyellow;
     border-radius: 50%;
 }
