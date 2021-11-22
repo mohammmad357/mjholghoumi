@@ -3,6 +3,7 @@
     height: 100px;
     padding: 20px;
     margin: 10px;
+    border: 5px solid green;
     border-radius: 50%;
     background: greenyellow;
     color: white;
@@ -14,6 +15,7 @@
     height: 100px;
     padding: 20px;
     margin: 10px;
+    border: 5px solid green;
     border-radius: 25%;
     background: blue;
     color: white;
